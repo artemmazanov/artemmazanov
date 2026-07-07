@@ -1,6 +1,6 @@
 ## 👋 Привет!
 
-Я разрабатываю **RUN BOT** — Телеграм-бота для бегового клуба SHU RUN.
+Я разрабатываю **Syrax** — Телеграм-бота для бегового клуба SHU RUN.
 
 ### 🛠 Стек
 `Python` · `pyTelegramBotAPI` · `MySQL` · `FastAPI` · `Telegram Mini App`
